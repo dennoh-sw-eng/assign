@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0b8190c9.css",
+    "main.js": "/static/js/main.cb6eeebc.js",
+    "static/media/social sciences.png": "/static/media/social sciences.91983e0c428b44efb6bf.png",
+    "static/media/bulb technical.png": "/static/media/bulb technical.4c11526aa401ceefb021.png",
+    "static/media/coding IT.png": "/static/media/coding IT.3be441d0479da523d6dd.png",
+    "static/media/book non tech.png": "/static/media/book non tech.d8231cc4b9c6d215a537.png",
+    "static/media/conical flask.png": "/static/media/conical flask.59182be3ed5fdae1f60a.png",
+    "static/media/Humanities books.png": "/static/media/Humanities books.e17a2eee295409c38a57.png",
+    "static/media/candle non tech.png": "/static/media/candle non tech.7a87655350d2a6fe2156.png",
+    "static/media/Maths Physics.png": "/static/media/Maths Physics.bf43d5ad26909b1c0afb.png",
+    "static/media/Literature.png": "/static/media/Literature.b8ca66b2c09894fe3350.png",
+    "static/media/grammarCheck.png": "/static/media/grammarCheck.a53044876aa9ee0c5b63.png",
+    "static/media/AI.png": "/static/media/AI.bd68c57cc1f531593f65.png",
+    "static/media/plagiarism.png": "/static/media/plagiarism.2d30d0bad393d59de7d5.png",
+    "static/media/styles.jpg": "/static/media/styles.c6fd44af9fff497e7794.jpg",
+    "static/media/timelyFrame.jpg": "/static/media/timelyFrame.4976c3ba77d8286ca65b.jpg",
+    "index.html": "/index.html",
+    "main.0b8190c9.css.map": "/static/css/main.0b8190c9.css.map",
+    "main.cb6eeebc.js.map": "/static/js/main.cb6eeebc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0b8190c9.css",
+    "static/js/main.cb6eeebc.js"
+  ]
+}
